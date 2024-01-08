@@ -12,7 +12,6 @@ public class App {
         System.out.println(new App().getGreeting());
         System.out.println(new App().getGreeting());
         System.out.println(new App().getGreeting());
-        System.out.println("revert");
     }
 }
 
