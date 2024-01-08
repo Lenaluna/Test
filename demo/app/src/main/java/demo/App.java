@@ -8,7 +8,7 @@ public class App {
         return "Hello World!";
     }
     public String getHappyEnd() {
-        return "Happy End";
+        return "Happy End!";
     }
 
     public static void main(String[] args) {
