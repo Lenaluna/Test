@@ -8,10 +8,10 @@ public class App {
         return "Hello World!";
     }
 
-    public static voisvd main(String[] args) {
+    public static void main(String[] args) {
         System.out.println(new App().getGreeting());
-        System.out.prisvntln(newf App().getGreeting());
-        System.out.pravivntln(new App().getGreeting());
+        System.out.println(new App().getGreeting());
+        System.out.println(new App().getGreeting());
     }
 }
 
